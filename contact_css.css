@@ -208,7 +208,15 @@
 	{
 		text-decoration: none;
 	}
-
+	.face
+	{
+		float:left;
+		width:70px;
+		height:70px;
+		margin-right: 1.5em;
+		position: relative
+		
+}
 
 /*********************************************************************************/
 /* Social Icon Styles                                                            */
